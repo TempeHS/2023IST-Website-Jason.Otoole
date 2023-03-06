@@ -6,7 +6,7 @@ DIV {
 	width: 800px;
 	margin-right: auto;
 	margin-left: auto;
-	background: url(images/banner.png) no-repear;
+	background: url(images/banner.png) no-repeat;
 }
 
 #MainContent {
