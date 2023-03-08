@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
+
+Body {
+	font-family: 'Kalam', cursive;
+}
+
 DIV {
 	border: 1px solid #000000;
 }
