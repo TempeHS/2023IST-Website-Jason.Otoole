@@ -34,8 +34,9 @@ DIV {
 	height:50px;
 	border: 1px solid green;
 }
-.footerl {
-	color:red;
+
+.footerl p {
+	color: green;
 }
 #FooterRight {
 	float:right;
@@ -43,7 +44,9 @@ DIV {
 	height:50px;
 	border: 1px solid red;
 }
-
+.footerr p {
+	color: red;
+}
 @media only screen and (max-width: 998px) {
 	#Footer, #MainContent, #Header {
 		width:100%;
