@@ -34,7 +34,9 @@ DIV {
 	height:50px;
 	border: 1px solid green;
 }
-
+.footerl {
+	color:red;
+}
 #FooterRight {
 	float:right;
 	width:49.5%;
