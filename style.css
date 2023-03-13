@@ -126,8 +126,8 @@ DIV {
 	}
 	
 	.button:hover:after, .button:hover:before {
-		width: calc(100% + 15px);
-		height: calc(100% + 15px);
+		width: calc(100% + 12px);
+		height: calc(100% + 12px);
 		transition: 0.4s, opacity 0.1s;
 		opacity: 1;
 	}
